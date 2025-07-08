@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav1{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.c1{
+    background-color: pink;
+    height: 1000px;
+}
+
+.c2{
+
+    height: 350px;
+    width: 702.09px;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 400px;
+    
+}
+img{
+    height: 350px;
+}
+#ha{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.p{
+    padding: 0px 300px ;
+}
+#pa{
+    margin-top: 30px;
+    
+}
